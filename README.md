@@ -1,4 +1,4 @@
-### Sobre Mim
+<h3 align="left">Sobre mim:</h3>
 
 * 🎨 Analista de dados que utiliza Python e Power BI para gerar insights relevantes.
 
@@ -6,8 +6,9 @@
 
 * 🔥 Gosto de desafios e de trilhar o caminho até a solução.
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardohbritoo&show_icons=true&locale=en&layout=compact" alt="cesarabaraujo" /></p>
 
-
+<h3 align="center">Entre em contato</h3>
 <div align='center'>
   <p align='center'>
     <a href="https://www.linkedin.com/in/leonardohbrito/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -15,6 +16,7 @@
     <a href="mailto:leojuniorlj123@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
+
 <!--
 **LeonardoHBritoo/LeonardoHBritoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
