@@ -1,10 +1,11 @@
 <h3 align="left">Sobre mim:</h3>
 
-* 🎨 Analista de dados que utiliza Python e Power BI para gerar insights relevantes.
+* 🎲 Analista de dados que utiliza Python e Power BI para gerar insights relevantes.
 
-* 🎁 Entusiasta da tecnologia, buscando sempre novas possibilidades e conhecimentos.
+* 💻 Entusiasta da tecnologia, buscando sempre novas possibilidades e conhecimentos.
 
 * 🔥 Gosto de desafios e de trilhar o caminho até a solução.
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardohbritoo&show_icons=true&locale=en&layout=compact" alt="cesarabaraujo" /></p>
 
