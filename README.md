@@ -1,13 +1,35 @@
+# Seja bem vindo! 
+Me chamo Leonardo Henrique, sou formardo em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte (UFRN) e aqui você vai encontrar projetos de análise de dados, criação de modelos preditivos, IA's, automação e muito mais! Tudo baseado em conhecimentos de negócio e estatística que fazem toda a diferença na hora de resolver problemas reais.
+
+
 <h3 align="left">Sobre mim:</h3>
 
-* 🎲 Analista de dados que utiliza Python e Power BI para gerar insights relevantes.
+* 🎲 Analista de dados que utiliza das melhores ferramentas do mercado para gerar insights relevantes
 
-* 💻 Entusiasta da tecnologia, buscando sempre novas possibilidades e conhecimentos.
+* 💻 Entusiasta da tecnologia, buscando sempre novas possibilidades e conhecimentos
 
-* 🔥 Gosto de desafios e de trilhar o caminho até a solução.
+* 🔥 Gosta de desafios e de trilhar o caminho até a solução
+* <td><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohbritoo&hide=html&layout=compact&theme=city_lights&locale=pt-br" /></td> 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardohbritoo&show_icons=true&locale=pt-br&layout=compact" alt="leonardohbrito" /></p>
+<h3 align="left"> 🛠️ Minhas Hard Skills</h3>
+
+- Conhecimentos estatísticos e de negócios
+- Entendimento dos principais KPI's do mercado
+- Limpeza, preparação e manipulação de dados com Python (pandas, numpy) e Excel
+- Visualização de dados (Matplotlib, Seaborn, Power BI e Excel)
+- SQL para consultas, análises e manipulações em bancos de dados (MySQL, PostgreesSQL, BigQuery)
+- Análise estatística e modelagem (scikit-learn)
+
+<h3 align="left"> 🚀 Minhas Soft Skills</h3>
+
+- Gerenciamento de tempo e priorização com foco na eficiência
+- Raciocínio estatístico e pensamento crítico
+- Adaptabilidade, curiosidade e vontade de aprender
+- Comunicação eficaz traduzindo os processos e insights para a liguagem de negócios
+- Habilidades de colaboração e trabalho em equipe
+- Capacidade de identificar e resolver problemas complexos
+
 
 <h3 align="center">Entre em contato:</h3>
 <div align='center'>
