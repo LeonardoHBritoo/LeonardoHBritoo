@@ -9,7 +9,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardohbritoo&show_icons=true&locale=en&layout=compact" alt="cesarabaraujo" /></p>
 
-<h3 align="center">Entre em contato</h3>
+<div align="center">Entre em contato:
 <div align='center'>
   <p align='center'>
     <a href="https://www.linkedin.com/in/leonardohbrito/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
