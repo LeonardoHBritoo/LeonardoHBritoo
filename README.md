@@ -1,5 +1,20 @@
-### Hi there 👋
+### Sobre Mim
 
+* 🎨 Analista de dados que utiliza Python e Power BI para gerar insights relevantes.
+
+* 🎁 Entusiasta da tecnologia, buscando sempre novas possibilidades e conhecimentos.
+
+* 🔥 Gosto de desafios e de trilhar o caminho até a solução.
+
+
+
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/leonardohbrito/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <a href="mailto:leojuniorlj123@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
 <!--
 **LeonardoHBritoo/LeonardoHBritoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
